@@ -1,0 +1,49 @@
+{
+  "patients": [
+    {
+      "id": "f2dc",
+      "name": "rosh",
+      "age": "23",
+      "gender": "Male",
+      "condition": "alergy",
+      "lastVisit": "2020-03-21",
+      "patientID": "P001"
+    },
+    {
+      "id": "4e47",
+      "name": "Malu",
+      "age": "23",
+      "gender": "Female",
+      "condition": "alergy",
+      "lastVisit": "2020-03-21",
+      "patientID": "P002"
+    },
+    {
+      "id": "c585",
+      "name": "Ramu",
+      "age": "23",
+      "gender": "Male",
+      "condition": "alergy",
+      "lastVisit": "2020-03-21",
+      "patientID": "P003"
+    },
+    {
+      "id": "de50",
+      "name": "Ramu K",
+      "age": "23",
+      "gender": "Male",
+      "condition": "alergy",
+      "lastVisit": "2020-03-21",
+      "patientID": "P004"
+    },
+    {
+      "id": "f2fc",
+      "name": "Ramu K M",
+      "age": "23",
+      "gender": "Male",
+      "condition": "alergy",
+      "lastVisit": "2020-03-21",
+      "patientID": "P005"
+    }
+  ]
+}

@@ -58,7 +58,6 @@ const PatientRegistrationForm = ({ onRegister }) => {
          errors.lastVisit="last visit cannot be future date";
     }
 
-
     setErrors(errors);
     return Object.keys(errors).length===0;
 
@@ -72,6 +71,10 @@ const PatientRegistrationForm = ({ onRegister }) => {
 //   const isValidDate = (dateString) => {
 
 // //    validate date 
+//     if (new Date(dateString)>new Date())
+//     {
+//         return false;
+//     }
 
 //   };
 
